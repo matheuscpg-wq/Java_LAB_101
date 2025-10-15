@@ -1,2 +1,2 @@
 # Java_LAB_101
-Repository to learn/study Java
+🎉 Boom — you’ve officially created and deployed your first Spring Boot REST API endpoint locally!
